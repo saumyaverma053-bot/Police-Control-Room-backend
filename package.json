@@ -1,0 +1,12 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "a backened at stack ",
+  "license": "ISC",
+  "author": "Saumya Verma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
